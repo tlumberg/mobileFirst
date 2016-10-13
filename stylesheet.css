@@ -17,8 +17,8 @@ a {
   text-align: center;
   border-radius: 10px;
 }
-container {
-  width: 100%;
+body {
+  margin: auto;
 }
 
 h2.titles {

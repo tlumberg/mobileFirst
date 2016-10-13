@@ -22,6 +22,13 @@ h2.titles {
   margin: 0 auto;
 }
 
+p {
+  text-align: center;
+  font-family: avenir;
+  width: 50%;
+  margin: 0 auto;
+}
+
 img.cats {
     width: 400px;
     display: block;

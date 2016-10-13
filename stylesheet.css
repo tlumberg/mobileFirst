@@ -31,11 +31,11 @@ h2.titles {
 p {
   text-align: center;
   font-family: avenir;
-  width: 50%;
+  width: 70%;
 }
 
 img.cats {
-    max-width: 100%;
+    max-width: 70%;
     display: block;
     padding: 25px 25px 25px 25px;
       

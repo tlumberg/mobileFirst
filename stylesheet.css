@@ -24,19 +24,19 @@ a {
 }
 
 h2.titles {
-  text-align: center;
+  text-align: right;
   font-family: futura;
   margin: 0 auto;
 }
 
 p {
-  text-align: center;
+  text-align: right;
   font-family: avenir;
   width: 90%;
 }
 
 .cats {
-    width: 90%;
+    max-width: 90%;
     display: block;
       
 

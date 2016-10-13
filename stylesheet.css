@@ -24,13 +24,13 @@ a {
 }
 
 h2.titles {
-  text-align: right;
+  text-align: left;
   font-family: futura;
   margin: 0 auto;
 }
 
 p {
-  text-align: right;
+  text-align: left;
   font-family: avenir;
   width: 90%;
 }

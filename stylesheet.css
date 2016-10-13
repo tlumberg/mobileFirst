@@ -18,7 +18,8 @@ a {
   border-radius: 10px;
 }
 container {
-  margin: 70%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 h2.titles {

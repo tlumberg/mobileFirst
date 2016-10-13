@@ -15,3 +15,12 @@ a {
   text-align: center;
   border-radius: 10px;
 }
+
+h2.titles {
+  color: white;
+  text-align: center;
+  font-family: futura;
+  font-size: 60px;
+  width: 50%;
+  margin: 0 auto;
+}

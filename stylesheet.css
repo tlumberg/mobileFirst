@@ -19,7 +19,8 @@ a {
 }
 
 .container {
-margin: 90%
+  margin-left: 25px;
+  margin-right: 25px;
 }
 
 h2.titles {
@@ -35,7 +36,7 @@ p {
 }
 
 .cats {
-    width: 90%;
+    max-width: 100%;
     display: block;
       
 

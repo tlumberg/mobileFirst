@@ -19,8 +19,8 @@ a {
 }
 
 .container {
-  margin-left: 25px;
-  margin-right: 25px;
+  margin-left: 1em;
+  margin-right: 1em;
 }
 
 h2.titles {
@@ -36,7 +36,7 @@ p {
 }
 
 .cats {
-    max-width: 80%;
+    width: 90%;
     display: block;
       
 

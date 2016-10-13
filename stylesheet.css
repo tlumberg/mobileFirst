@@ -17,6 +17,10 @@ a {
   border-radius: 10px;
 }
 
+container {
+  margin: 90%;
+}
+
 h2.titles {
   text-align: center;
   font-family: futura;
@@ -35,6 +39,4 @@ img.cats {
     margin-right: auto; 
     padding: 25px 25px 25px 25px;
       
-container {
-  margin: 90%;
-  }
+

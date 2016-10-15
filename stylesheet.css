@@ -1,39 +1,44 @@
-
-li {
-  display: inline;
-  margin: 1px;
+/* layout element colors
+===================================== */
   
+/* header, banner and footer layout
+===================================== */
+.main-nav {
+    margin: auto;
+    align-content: center;
+}    
+.main-nav li {
+    margin-top: 15px;
+    list-style-type: none;
+    max-width: 100%;
 }
-a:hover {
-    color: red;
+
+.main-nav a{
+    display: block; 
+    padding: 5px;
+    border-radius: 10px;
+    background-color: red;
+    margin: 15px;
     text-decoration: none;
-}
+    text-align: center;
+    }
 
-a {
-  text-decoration: none;
-  background-color: blue;
-  color: white;
-  padding: 5px 10px; 
-  border-radius: 10px;
-}
 
+    
 .container {
   margin-left: 1em;
   margin-right: 1em;
 }
 
-h2.titles {
-  text-align: left;
-  font-family: futura;
-  margin: 0 auto;
-}
-
-p {
-  text-align: left;
-  font-family: avenir;
-  width: 100%;
-}
-
+    
+    
+/* column layout
+===================================== */ 
+    
+    
+    
+/* imagery
+===================================== */
 .cats {
     max-width: 100%;
     display: block;

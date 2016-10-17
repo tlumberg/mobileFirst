@@ -9,7 +9,6 @@
 .main-nav li {
     margin-top: 15px;
     list-style-type: none;
-    max-width: 100%;
 }
 
 .main-nav a{
@@ -42,5 +41,4 @@
     max-width: 90%;
     display: block;
     align-content: center;
-      
-
+}

@@ -11,17 +11,14 @@
     list-style-type: none;
 }
 
-.main-nav a{
+.main-nav a {
     display: block; 
-    padding: 5px;
     border-radius: 10px;
     background-color: red;
     margin: 15px;
     text-decoration: none;
     text-align: center;
-    }
-
-
+}
     
 .container {
   margin-left: 1em;
@@ -38,7 +35,7 @@
 /* imagery
 ===================================== */
 .cats {
-    max-width: 90%;
+    max-width: 100%;
     display: block;
     align-content: center;
 }

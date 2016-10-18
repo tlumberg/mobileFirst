@@ -5,9 +5,10 @@
 ===================================== */
     
 .main-nav li {
-    margin-top: 15px;
+
     list-style: none;
     align-content: center;
+    margin: 0 auto;
 }
 
 .main-nav a {

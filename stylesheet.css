@@ -5,10 +5,9 @@
 ===================================== */
     
 .main-nav li {
-
     list-style: none;
     align-content: center;
-    margin: 0 auto;
+
 }
 
 .main-nav a {
@@ -19,6 +18,7 @@
     margin: 15px;
     text-decoration: none;
     text-align: center;
+    margin: 0 auto;
 }
     
 .container {
